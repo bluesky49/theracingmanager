@@ -45,7 +45,7 @@
     "babel-plugin-module-resolver": "^2.7.1",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1",
     "babel-register": "^6.24.1",
-    "bcrypt": "^1.0.2",
+    "bcrypt": "^5.0.0",
     "bluebird": "^3.5.0",
     "body-parser": "^1.17.2",
     "bodymen": "^1.0.3",
