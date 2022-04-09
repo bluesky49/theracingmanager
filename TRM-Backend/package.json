@@ -62,7 +62,7 @@
     "jsonwebtoken": "^7.4.1",
     "mime": "^1.6.0",
     "mocha": "^3.4.2",
-    "moment": "^2.19.2",
+    "moment": "^2.29.2",
     "mongoose": "^5.7.5",
     "mongoose-algolia": "^1.7.0",
     "mongoose-unique-validator": "^1.0.5",
