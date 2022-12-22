@@ -59,7 +59,7 @@
     "forever": "^0.15.3",
     "fs-extra": "^3.0.1",
     "handlebars": "^4.7.7",
-    "jsonwebtoken": "^7.4.1",
+    "jsonwebtoken": "^9.0.0",
     "mime": "^1.6.0",
     "mocha": "^3.4.2",
     "moment": "^2.19.2",
